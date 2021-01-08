@@ -115,7 +115,7 @@ body {
   line-height: 1.5;
   color: #222222;
   background: #F9FBFF;
-  background-image: url(/Users/javierrojas/Documents/GitHub/TemplateClubEst/themesEstadClub/htmlthemes/Image/Background5.png);
+  background-image: url(https://github.com/JavierRojasC/ThemesClubEstad/blob/main/htmlthemes/Image/Background5.png?raw=true);
   background-size: 20%;
 
 
@@ -329,5 +329,5 @@ footer a {
 }
 
 div {
-   background-image: url(/Users/javierrojas/Documents/GitHub/TemplateClubEst/themesEstadClub/htmlthemes/Image/white.png);
+   background-image: url(https://github.com/JavierRojasC/ThemesClubEstad/blob/main/htmlthemes/Image/white.png?raw=true);
 }
