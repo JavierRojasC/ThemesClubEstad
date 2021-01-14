@@ -1,5 +1,5 @@
 ---
-title: "Título"
+title: "Título "
 author: "Autor"
 date: "1/6/2021"
 output: 
@@ -7,6 +7,9 @@ output:
     css: ["Template.css","Normalizador.css"]
 ---
 
+# Tema
+
+## Subtema
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, warning = FALSE)
 
