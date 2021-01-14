@@ -7,7 +7,7 @@ output:
     css: ["Template.css","Normalizador.css"]
 ---
 
-# Tema
+# Tema 
 
 ## Subtema
 ```{r setup, include=FALSE}
