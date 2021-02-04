@@ -1,0 +1,62 @@
+---
+title: "Título"
+subtitle: ""
+
+author: "Mauricio Javier Rojas Campuzano"
+course: 'Escuela Superior Politécnica del Litoral'
+address: Guayaquil, Ecuador.
+field: Facultad de Ciencias Naturales y Matemáticas
+ID: 'maujroja@espol.edu.ec'
+
+author2: "Alexia Pareja"
+course2: 'Seminar: Solutions to All and Nothing'
+address2: Guayaquil, Ecuador.
+#logo: examples/logo.png  # insert path to your logo
+ID2: '@espol.edu.ec'
+
+author3: "Emily Alcivar"
+course3: 'Seminar: Solutions to All and Nothing'
+address3: Guayaquil, Ecuador.
+ID3: '@espol.edu.ec'
+
+
+
+date: 'Enero 2021'  # today
+fontfamily: lmodern
+fontsize: 11pt
+graphics: null
+papersize: 
+geometry: margin=1.0in
+classoption:
+  - a4paper
+  - oneside
+  #- more options here, see rmarkdown documentation 
+lang: de-De
+lof: yes
+lot: yes
+toc: yes
+numbersections: yes
+UP_title: yes
+UP_subtitle: yes
+shaded_quote: no
+output: 
+  pdf_document:
+    template: template.tex
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, include = FALSE, warning = FALSE, message = FALSE)
+```
+
+# Descripción del problema 
+
+
+
+# Procedimiento 
+
+```{r}
+
+
+```
+
