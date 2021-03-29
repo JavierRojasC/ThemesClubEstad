@@ -4,7 +4,7 @@ Title: Templates DATA Club
 Version: 0.1.0
 Author: Mauricio Javier Rojas Campuzano
 Maintainer: The package maintainer <maujroja@espol.edu.ec>
-Imports: reveals
+Imports: revealjs
 Description: Paquete que contiene templates, para la inclusión en documentos pdf, html y presentaciones. 
 License: DATA Club 2021
 Encoding: UTF-8
